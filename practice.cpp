@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	/*
-	*  TODO: replace "XXXX-XXXXX" to your student number
+	*  TODO: replace 2016-19833" to your student number
 	*/
 	cout << "My student number is XXXX-XXXXX" << endl;
 	return 0
